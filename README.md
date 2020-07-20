@@ -1,2 +1,2 @@
 # weirdgame
-WeiRdGamE
+I really don't know why.
